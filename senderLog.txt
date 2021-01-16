@@ -1,0 +1,78 @@
+Begin Sender Log
+ID set to: bri
+Error rate set to: 50%
+Error generated
+Sending: [hello?]
+Received NAK, resending message, attempt 1
+No error
+Sending: [hello?]
+Received hi bri!Nice to see you again.
+Error generated
+Sending: [who are you?]
+Received NAK, resending message, attempt 1
+No error
+Sending: [who are you?]
+Received hi bri!It's your professor.
+No error
+Sending: [are you sure?]
+Received hi bri!Don't count on it.
+Error generated
+Sending: [where are we?]
+Received NAK, resending message, attempt 1
+No error
+Sending: [where are we?]
+Received hi bri!Wasn't it in the lake?
+Error generated
+Sending: [error]
+Received NAK, resending message, attempt 1
+Error generated
+Sending: [error]
+Received NAK, resending message, attempt 2
+Error generated
+Sending: [error]
+Received NAK, resending message, attempt 3
+Error generated
+Sending: [error]
+Received NAK, resending message, attempt 4
+Error generated
+Sending: [error]
+Received NAK, resending message, attempt 5
+Error generated
+Sending: [error]
+Received NAK, resending message, attempt 6
+Error generated
+Sending: [error]
+Received NAK, resending message, attempt 7
+Error generated
+Sending: [error]
+Received NAK, resending message, attempt 8
+Error generated
+Sending: [error]
+Received NAK, resending message, attempt 9
+Error generated
+Sending: [error]
+Received NAK, resending message, attempt 10
+No error
+Sending: [error]
+Received hi bri!Ok who cares.
+Error generated
+Sending: [error]
+Received NAK, resending message, attempt 1
+Error generated
+Sending: [error]
+Received NAK, resending message, attempt 2
+No error
+Sending: [error]
+Received hi bri!lol. Oh, that's nice.
+No error
+Sending: [try again]
+Received hi bri!I see. Actually, I don't.
+No error
+Sending: [bye]
+Received hi bri!Cya!
+Total messages: 8
+Total attempts: 23
+Theoretical number of transmissions: 16.0
+Average attempts per message: 2.875
+Total number of damaged messages: 15
+Max attempts for any message: 11

@@ -1,0 +1,9 @@
+cloudy
+windy
+rainy
+sunny
+chilly
+hot
+humid
+warm
+muggy 
